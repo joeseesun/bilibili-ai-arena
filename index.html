@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="B站AI无限竞技场首期测评视频索引" />
+    <title>B站AI无限竞技场 · Video Index</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav>
+        <a class="brand" href="./">AI ARENA / 无限竞技场</a>
+        <a href="https://www.bilibili.com/blackboard/era/aiarena.html?page=home#home">进入竞技场 ↗</a>
+      </nav>
+      <div class="hero-copy">
+        <p class="eyebrow">COMMUNITY-BUILT AI TESTS</p>
+        <h1>不是跑分，是中国创作者<br />给全球 AI 出的一场大考。</h1>
+        <p class="lede">代码、游戏、创作、文化与真实生活场景。一次看懂不同模型在开放任务里的真实表现。</p>
+      </div>
+      <div class="proof" aria-label="数据摘要">
+        <span><strong id="video-count">—</strong> Videos</span>
+        <span><strong id="creator-count">—</strong> Creators</span>
+        <span><strong>100+</strong> AI Models</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="筛选视频">
+        <label>
+          <span>搜索 / Search</span>
+          <input id="search" type="search" placeholder="模型、标题或 UP 主" />
+        </label>
+        <div id="filters" class="filters" aria-label="主题筛选"></div>
+      </section>
+      <p id="status" class="status" role="status"></p>
+      <section id="videos" class="grid" aria-label="测评视频"></section>
+    </main>
+
+    <footer>
+      <p>小破站 / 阿B / 小电视 / 隔壁站 / 字母站搜「AI竞技场」</p>
+      <p>视频与封面版权归原 UP 主及相关权利人所有。本项目只做索引与导流，不托管视频文件。</p>
+    </footer>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
