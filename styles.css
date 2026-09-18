@@ -40,6 +40,8 @@ button[aria-pressed="true"] { background: var(--ink); color: white; border-color
 h2 { margin: 8px 0; font-size: 18px; line-height: 1.4; }
 h2 a { text-decoration: none; }
 .up { color: var(--blue); font-size: 14px; text-decoration: none; }
+.topics { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 10px; }
+.topics a { padding: 4px 8px; border: 1px solid var(--line); border-radius: 999px; color: rgba(19,19,19,.68); font-size: 11px; text-decoration: none; }
 footer { padding: 36px clamp(20px, 5vw, 72px); background: #e8e3d8; color: rgba(19,19,19,.7); font-size: 14px; }
 footer p { max-width: 900px; }
 .empty { grid-column: 1 / -1; padding: 80px 0; text-align: center; color: rgba(19,19,19,.55); }
