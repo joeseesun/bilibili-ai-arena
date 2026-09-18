@@ -1,5 +1,5 @@
 import { inflateSync } from "node:zlib";
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 
 const EVENT_URL = "https://www.bilibili.com/blackboard/era/aiarena.html?page=home#home";
 const ARENA_API = "https://api.bilibili.com/x/product/growth/creation/rank/arena";
@@ -149,6 +149,7 @@ async function fetchVideo(bvid, sourceOrder, topicRefs, fromSheet, arenaFallback
 
 const formatDuration = (seconds) => `${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, "0")}`;
 const escapeCell = (value) => String(value).replaceAll("|", "\\|").replaceAll("\n", " ");
+const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[character]);
 
 function renderVideos(videos, refreshedAt) {
   const lines = [
@@ -186,6 +187,34 @@ function renderTopics(topics, videos, refreshedAt) {
   return lines.join("\n");
 }
 
+function renderReadmeGallery(videos) {
+  const lines = ["<table>"];
+  for (let index = 0; index < videos.length; index += 3) {
+    lines.push("  <tr>");
+    for (const video of videos.slice(index, index + 3)) {
+      const title = escapeHtml(video.title);
+      const upName = escapeHtml(video.up.name);
+      const thumbnail = escapeHtml(video.thumbnail);
+      lines.push("    <td width=\"33.333%\" valign=\"top\">");
+      lines.push(`      <a href="${video.url}"><img src="${thumbnail}" width="100%" alt="${title}"></a><br>`);
+      lines.push(`      <strong><a href="${video.url}">${title}</a></strong><br>`);
+      lines.push(`      <sub><a href="${video.up.url}">UP主 ${upName}</a> · ${video.bvid}</sub><br>`);
+      lines.push(`      <sub><a href="${video.url}">bilibili.com/video/${video.bvid}/</a></sub>`);
+      lines.push("    </td>");
+    }
+    lines.push("  </tr>");
+  }
+  lines.push("</table>");
+  return lines.join("\n");
+}
+
+function replaceReadmeGallery(readme, gallery) {
+  const start = "<!-- VIDEO_CATALOG_START -->";
+  const end = "<!-- VIDEO_CATALOG_END -->";
+  if (!readme.includes(start) || !readme.includes(end)) throw new Error("README video catalog markers are missing");
+  return readme.replace(new RegExp(`${start}[\\s\\S]*?${end}`), `${start}\n${gallery}\n${end}`);
+}
+
 const [{ topics, bvids: arenaBvids, videoByBvid }, sheetBvids] = await Promise.all([fetchArena(), fetchSourceBvids()]);
 if (!topics.length || !arenaBvids.length) throw new Error("No topics or videos found on the Arena homepage");
 const sheetSet = new Set(sheetBvids);
@@ -211,4 +240,6 @@ const catalog = {
 await writeFile("data/videos.json", `${JSON.stringify(catalog, null, 2)}\n`);
 await writeFile("VIDEOS.md", renderVideos(videos, refreshedAt));
 await writeFile("TOPICS.md", renderTopics(topics, videos, refreshedAt));
+const readme = await readFile("README.md", "utf8");
+await writeFile("README.md", replaceReadmeGallery(readme, renderReadmeGallery(videos)));
 console.log(`Updated ${catalog.topic_count} topics and ${catalog.video_count} unique videos from ${catalog.creator_count} creators.`);
