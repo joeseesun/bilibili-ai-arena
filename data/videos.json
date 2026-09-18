@@ -1,0 +1,1963 @@
+{
+  "event": "B站AI无限竞技场",
+  "event_url": "https://www.bilibili.com/blackboard/era/aiarena.html?page=home#home",
+  "source_sheet": "https://docs.qq.com/sheet/DYUdLaEpodUZ2Snhp?tab=pyrw0j",
+  "refreshed_at": "2026-09-18T06:44:49.018Z",
+  "video_count": 75,
+  "creator_count": 22,
+  "videos": [
+    {
+      "source_order": 1,
+      "bvid": "BV1R2b56uEK7",
+      "url": "https://www.bilibili.com/video/BV1R2b56uEK7/",
+      "title": "来屎山之巅，看GPT6和Fable5.1神仙打架｜屎山论剑",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/7b76a5a5f2a03b24df50ca1c18363c52381a3a10.jpg",
+      "duration_seconds": 1058,
+      "published_at": "2026-09-08T09:02:39.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 275437,
+        "danmaku": 1344,
+        "replies": 2278,
+        "favorites": 2556,
+        "coins": 3897,
+        "shares": 3740,
+        "likes": 8509
+      }
+    },
+    {
+      "source_order": 2,
+      "bvid": "BV1mu4X6cEkD",
+      "url": "https://www.bilibili.com/video/BV1mu4X6cEkD/",
+      "title": "谁是模型斩杀线，来看屎山大论剑｜屎山论剑",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/3d82bff41ef5ec878166c82261e0f01b6fa0092a.jpg",
+      "duration_seconds": 1305,
+      "published_at": "2026-08-30T08:11:08.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 70377,
+        "danmaku": 497,
+        "replies": 1077,
+        "favorites": 412,
+        "coins": 757,
+        "shares": 447,
+        "likes": 2198
+      }
+    },
+    {
+      "source_order": 3,
+      "bvid": "BV1HzbX6tEvR",
+      "url": "https://www.bilibili.com/video/BV1HzbX6tEvR/",
+      "title": "开源AI闭源AI决战屎山之巅｜屎山论剑",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/62c009cec381df25dcec429a7b8b2c7b20b380bc.jpg",
+      "duration_seconds": 1491,
+      "published_at": "2026-08-16T12:26:09.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 115814,
+        "danmaku": 1338,
+        "replies": 1480,
+        "favorites": 1135,
+        "coins": 2524,
+        "shares": 1367,
+        "likes": 4643
+      }
+    },
+    {
+      "source_order": 4,
+      "bvid": "BV1fk3X6CEXb",
+      "url": "https://www.bilibili.com/video/BV1fk3X6CEXb/",
+      "title": "屎山论剑｜DeepSeekV4Flash：下一位！",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/4e29976cd765e82d46764cbfccfe4cbe65c2d4e1.jpg",
+      "duration_seconds": 1010,
+      "published_at": "2026-08-02T04:33:50.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 277236,
+        "danmaku": 998,
+        "replies": 2138,
+        "favorites": 2569,
+        "coins": 5145,
+        "shares": 1965,
+        "likes": 9987
+      }
+    },
+    {
+      "source_order": 5,
+      "bvid": "BV1893x6HE7s",
+      "url": "https://www.bilibili.com/video/BV1893x6HE7s/",
+      "title": "屎山论剑｜中美AI！决战屎山之巅！",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/27f714d56250abd500fdfe1c8d9e62f803ce78c0.jpg",
+      "duration_seconds": 1127,
+      "published_at": "2026-07-30T11:31:07.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 43300,
+        "danmaku": 204,
+        "replies": 384,
+        "favorites": 213,
+        "coins": 771,
+        "shares": 162,
+        "likes": 1898
+      }
+    },
+    {
+      "source_order": 6,
+      "bvid": "BV1vrgQ6aEJU",
+      "url": "https://www.bilibili.com/video/BV1vrgQ6aEJU/",
+      "title": "请接受《屎山》的检验｜Qwen3.8Max｜Gemini3.6Flash【B站AI创造公开赛】",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/56f3e91c73b22447408d9660190549ef92099213.jpg",
+      "duration_seconds": 823,
+      "published_at": "2026-07-23T09:00:08.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 55901,
+        "danmaku": 275,
+        "replies": 364,
+        "favorites": 206,
+        "coins": 298,
+        "shares": 140,
+        "likes": 1304
+      }
+    },
+    {
+      "source_order": 7,
+      "bvid": "BV1QNKw6uE3L",
+      "url": "https://www.bilibili.com/video/BV1QNKw6uE3L/",
+      "title": "Kimi-K3｜实战祖传代码｜代表月亮！照亮屎山！",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/826fd8db506a1f6c5bf02a4682f5ebc587b3a2e5.jpg",
+      "duration_seconds": 800,
+      "published_at": "2026-07-18T08:51:26.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 184074,
+        "danmaku": 512,
+        "replies": 1405,
+        "favorites": 1297,
+        "coins": 2640,
+        "shares": 909,
+        "likes": 5873
+      }
+    },
+    {
+      "source_order": 8,
+      "bvid": "BV1KeN76rEJ9",
+      "url": "https://www.bilibili.com/video/BV1KeN76rEJ9/",
+      "title": "Grok4.5！从火星来的AI！到屎山去改BUG！",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/e8166f3a9b6dc8e605e1ea57ffa1ae48ff00ad7e.jpg",
+      "duration_seconds": 548,
+      "published_at": "2026-07-10T09:22:57.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 38898,
+        "danmaku": 102,
+        "replies": 298,
+        "favorites": 178,
+        "coins": 353,
+        "shares": 153,
+        "likes": 1080
+      }
+    },
+    {
+      "source_order": 9,
+      "bvid": "BV1etMJ6NEd4",
+      "url": "https://www.bilibili.com/video/BV1etMJ6NEd4/",
+      "title": "HY3.0！你终究还是要面对屎山代码的考验！",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/b58bb5f794575e7e1632565941c70dd9bb7d4d30.jpg",
+      "duration_seconds": 513,
+      "published_at": "2026-07-09T08:13:38.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 46187,
+        "danmaku": 103,
+        "replies": 283,
+        "favorites": 157,
+        "coins": 189,
+        "shares": 86,
+        "likes": 1022
+      }
+    },
+    {
+      "source_order": 10,
+      "bvid": "BV1okM86eEwi",
+      "url": "https://www.bilibili.com/video/BV1okM86eEwi/",
+      "title": "LongCat2.0发布：美团龙猫，请直面屎山代码！",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/667700a477e36a6d8837a905c2c71e15d3a24c40.jpg",
+      "duration_seconds": 571,
+      "published_at": "2026-07-07T09:49:51.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 237687,
+        "danmaku": 117,
+        "replies": 284,
+        "favorites": 343,
+        "coins": 253,
+        "shares": 136,
+        "likes": 3531
+      }
+    },
+    {
+      "source_order": 11,
+      "bvid": "BV1smTi6aE6J",
+      "url": "https://www.bilibili.com/video/BV1smTi6aE6J/",
+      "title": "祖传BUG，屎山论剑｜国模AI选拔赛",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/87560f352d09e6ddb40b7415820393bc57cbe583.jpg",
+      "duration_seconds": 1059,
+      "published_at": "2026-07-01T16:08:28.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 48751,
+        "danmaku": 198,
+        "replies": 298,
+        "favorites": 218,
+        "coins": 430,
+        "shares": 168,
+        "likes": 1299
+      }
+    },
+    {
+      "source_order": 12,
+      "bvid": "BV1hX8C6DEmt",
+      "url": "https://www.bilibili.com/video/BV1hX8C6DEmt/",
+      "title": "看Qwen3.8 27B这四两，拨Opus4.6这千斤 | 屎山考核",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/37940dae6f81209c0ee8945858c9f90373b4c3d4.jpg",
+      "duration_seconds": 874,
+      "published_at": "2026-08-22T03:03:06.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 77164,
+        "danmaku": 276,
+        "replies": 1025,
+        "favorites": 644,
+        "coins": 647,
+        "shares": 831,
+        "likes": 2443
+      }
+    },
+    {
+      "source_order": 13,
+      "bvid": "BV178gP6vE5P",
+      "url": "https://www.bilibili.com/video/BV178gP6vE5P/",
+      "title": "GLM5.3，国模一哥，开源第一｜屎山考核",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/22be7e4f1c69ae88aa2cee78abd38705cfd62e4d.jpg",
+      "duration_seconds": 1001,
+      "published_at": "2026-08-14T12:05:18.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 148550,
+        "danmaku": 398,
+        "replies": 1001,
+        "favorites": 770,
+        "coins": 1303,
+        "shares": 604,
+        "likes": 3893
+      }
+    },
+    {
+      "source_order": 14,
+      "bvid": "BV1NDMy6xE6i",
+      "url": "https://www.bilibili.com/video/BV1NDMy6xE6i/",
+      "title": "屎山考核｜Qwen3.8Max正式版｜再战祖传代码！",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/e8f2e101ead4d2b6636e0f101545ac7c32f43318.jpg",
+      "duration_seconds": 341,
+      "published_at": "2026-08-05T10:39:50.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 44170,
+        "danmaku": 96,
+        "replies": 542,
+        "favorites": 135,
+        "coins": 294,
+        "shares": 116,
+        "likes": 1277
+      }
+    },
+    {
+      "source_order": 15,
+      "bvid": "BV1waG36NEGe",
+      "url": "https://www.bilibili.com/video/BV1waG36NEGe/",
+      "title": "屎山考核｜DeepSeekV4Flash正式版｜曾经的天才程序员，回来吧！",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/667c200695db25dc26f32307e9452fbe0bc0fa97.jpg",
+      "duration_seconds": 437,
+      "published_at": "2026-08-01T07:23:31.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 105395,
+        "danmaku": 202,
+        "replies": 722,
+        "favorites": 434,
+        "coins": 653,
+        "shares": 216,
+        "likes": 2853
+      }
+    },
+    {
+      "source_order": 16,
+      "bvid": "BV1URt76iEVm",
+      "url": "https://www.bilibili.com/video/BV1URt76iEVm/",
+      "title": "中年K3大战青年Grok4.6｜C组第一轮",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/ecfa9c18fe57c900941c881610a8d88c52bddc47.jpg",
+      "duration_seconds": 911,
+      "published_at": "2026-09-02T05:00:11.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 41346,
+        "danmaku": 258,
+        "replies": 337,
+        "favorites": 174,
+        "coins": 425,
+        "shares": 105,
+        "likes": 1433
+      }
+    },
+    {
+      "source_order": 17,
+      "bvid": "BV1dvti6AE7o",
+      "url": "https://www.bilibili.com/video/BV1dvti6AE7o/",
+      "title": "中美AI一哥，屎山巅峰对决｜D组第一轮",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/82396f1c454dea88e7a8816e4657b07414630fac.jpg",
+      "duration_seconds": 991,
+      "published_at": "2026-09-04T07:57:28.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 72519,
+        "danmaku": 389,
+        "replies": 720,
+        "favorites": 393,
+        "coins": 1043,
+        "shares": 265,
+        "likes": 2338
+      }
+    },
+    {
+      "source_order": 18,
+      "bvid": "BV1gggJ6eEdn",
+      "url": "https://www.bilibili.com/video/BV1gggJ6eEdn/",
+      "title": "十六路AI诸侯分组抽签| 祖传BUG挑战赛｜逐鹿中原",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/955dbc515ba4ade1e1db2f8e4039a677957be7a7.jpg",
+      "duration_seconds": 558,
+      "published_at": "2026-08-13T02:19:53.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 35274,
+        "danmaku": 137,
+        "replies": 316,
+        "favorites": 164,
+        "coins": 344,
+        "shares": 76,
+        "likes": 1163
+      }
+    },
+    {
+      "source_order": 19,
+      "bvid": "BV1x9h369EgD",
+      "url": "https://www.bilibili.com/video/BV1x9h369EgD/",
+      "title": "小扎的MuseSpark1.2踢馆祖传屎山代码｜祖传BUG挑战赛",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/3cc439c22ae2bb6968d4711fd85426bf63bb8ce2.jpg",
+      "duration_seconds": 838,
+      "published_at": "2026-08-25T10:39:59.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 36186,
+        "danmaku": 313,
+        "replies": 513,
+        "favorites": 185,
+        "coins": 408,
+        "shares": 192,
+        "likes": 1393
+      }
+    },
+    {
+      "source_order": 20,
+      "bvid": "BV1STtP6wET8",
+      "url": "https://www.bilibili.com/video/BV1STtP6wET8/",
+      "title": "解决BUG最强的AI是谁呢，来屎山挑战赛一见分晓｜B组第一轮",
+      "up": {
+        "name": "Token就是词元",
+        "mid": 3546747185924773,
+        "url": "https://space.bilibili.com/3546747185924773"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/72b3af3250cffd4089b7c4e843d1fb9eae6b2105.jpg",
+      "duration_seconds": 907,
+      "published_at": "2026-08-28T08:35:34.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 51683,
+        "danmaku": 345,
+        "replies": 720,
+        "favorites": 302,
+        "coins": 746,
+        "shares": 187,
+        "likes": 1983
+      }
+    },
+    {
+      "source_order": 21,
+      "bvid": "BV15HMS6DETZ",
+      "url": "https://www.bilibili.com/video/BV15HMS6DETZ/",
+      "title": "【横测】谁是做量化交易最好用的大模型（Kimi K3 / Opus 5 / Fable 5 / DeepSeek V4 Flash）",
+      "up": {
+        "name": "frank-quant",
+        "mid": 3546589501066099,
+        "url": "https://space.bilibili.com/3546589501066099"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/3b6dbe1bafea165d6d372e2240607e4d1a9fe12d.jpg",
+      "duration_seconds": 1112,
+      "published_at": "2026-08-06T04:00:00.000Z",
+      "topic_tags_inferred": [
+        "finance"
+      ],
+      "stats": {
+        "views": 170228,
+        "danmaku": 255,
+        "replies": 582,
+        "favorites": 7606,
+        "coins": 1751,
+        "shares": 1582,
+        "likes": 4159
+      }
+    },
+    {
+      "source_order": 22,
+      "bvid": "BV18ct167Ev7",
+      "url": "https://www.bilibili.com/video/BV18ct167Ev7/",
+      "title": "GPT6 Astra 发布实测，对比 Claude Fable 5.1，两个全栈项目实测",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/ced35fd305db22ea3ebef0596e3cc66a9ed3d33d.jpg",
+      "duration_seconds": 322,
+      "published_at": "2026-09-05T05:10:39.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 31810,
+        "danmaku": 9,
+        "replies": 192,
+        "favorites": 167,
+        "coins": 45,
+        "shares": 46,
+        "likes": 403
+      }
+    },
+    {
+      "source_order": 23,
+      "bvid": "BV12TN56aEk4",
+      "url": "https://www.bilibili.com/video/BV12TN56aEk4/",
+      "title": "GPT-5.6 Sol 真顶：拿真实开源项目实测，最后的帆船游戏把我看愣了",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/922c3a7f9750442afd8e8ce2413b6be2649523f8.jpg",
+      "duration_seconds": 355,
+      "published_at": "2026-07-09T23:36:09.000Z",
+      "topic_tags_inferred": [
+        "coding",
+        "games"
+      ],
+      "stats": {
+        "views": 78294,
+        "danmaku": 129,
+        "replies": 498,
+        "favorites": 538,
+        "coins": 55,
+        "shares": 272,
+        "likes": 705
+      }
+    },
+    {
+      "source_order": 24,
+      "bvid": "BV1LRgq64Evr",
+      "url": "https://www.bilibili.com/video/BV1LRgq64Evr/",
+      "title": "Claude Opus 5新模型首发实测：Fable 5弱化版?",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/73fb014bf3d98abf867b4226b4a2332b07f9d83c.jpg",
+      "duration_seconds": 306,
+      "published_at": "2026-07-24T22:28:31.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 22767,
+        "danmaku": 87,
+        "replies": 126,
+        "favorites": 82,
+        "coins": 94,
+        "shares": 23,
+        "likes": 431
+      }
+    },
+    {
+      "source_order": 25,
+      "bvid": "BV1Xv7s6TES7",
+      "url": "https://www.bilibili.com/video/BV1Xv7s6TES7/",
+      "title": "GPT-5.6 号称\"史上最强\"，第三方实测翻车?",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/bcf37d5a7282c66ea15b81b0b31ce00635ad5cc7.jpg",
+      "duration_seconds": 303,
+      "published_at": "2026-06-27T13:26:40.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 29186,
+        "danmaku": 117,
+        "replies": 95,
+        "favorites": 100,
+        "coins": 23,
+        "shares": 40,
+        "likes": 261
+      }
+    },
+    {
+      "source_order": 26,
+      "bvid": "BV1p7V36qE45",
+      "url": "https://www.bilibili.com/video/BV1p7V36qE45/",
+      "title": "Claude Opus 4.8实测，丢进自己万星开源项目，结果……",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/58afb3059d92a1539a11f90c8193871f15c2d4c3.jpg",
+      "duration_seconds": 623,
+      "published_at": "2026-05-30T02:29:48.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 18531,
+        "danmaku": 7,
+        "replies": 146,
+        "favorites": 255,
+        "coins": 105,
+        "shares": 36,
+        "likes": 344
+      }
+    },
+    {
+      "source_order": 27,
+      "bvid": "BV1PB8B6dEcd",
+      "url": "https://www.bilibili.com/video/BV1PB8B6dEcd/",
+      "title": "DeepSeek 多模态终于发布！1.5 亿 Token 实测，表现到底怎么样？",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/79705f7da90df243aab1274eead5a2f3b0f34336.jpg",
+      "duration_seconds": 304,
+      "published_at": "2026-08-21T14:36:59.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 42744,
+        "danmaku": 149,
+        "replies": 191,
+        "favorites": 239,
+        "coins": 323,
+        "shares": 83,
+        "likes": 1052
+      }
+    },
+    {
+      "source_order": 28,
+      "bvid": "BV1CeGP6UEu7",
+      "url": "https://www.bilibili.com/video/BV1CeGP6UEu7/",
+      "title": "DeepSeek V4 Flash正式版发布实测 vs GPT5.6 Luna",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/9a66b07c90987ddf8a3b896773eb9c3f79187db9.jpg",
+      "duration_seconds": 309,
+      "published_at": "2026-07-31T14:19:02.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 38429,
+        "danmaku": 130,
+        "replies": 273,
+        "favorites": 163,
+        "coins": 40,
+        "shares": 59,
+        "likes": 500
+      }
+    },
+    {
+      "source_order": 29,
+      "bvid": "BV1xeKy6JEPc",
+      "url": "https://www.bilibili.com/video/BV1xeKy6JEPc/",
+      "title": "Kimi K3全网口碑分析曝光：国外叫好，国内为何先吵起来了？",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/7092f0544df18565d765fc6ccc7b8be9d93d6370.jpg",
+      "duration_seconds": 268,
+      "published_at": "2026-07-19T23:02:51.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 34272,
+        "danmaku": 124,
+        "replies": 233,
+        "favorites": 147,
+        "coins": 34,
+        "shares": 22,
+        "likes": 378
+      }
+    },
+    {
+      "source_order": 30,
+      "bvid": "BV1VSgH61EvB",
+      "url": "https://www.bilibili.com/video/BV1VSgH61EvB/",
+      "title": "DeepSeek V4 Pro 硬核实测！和 Grok 4.6、Opus 4.8 一起上强度！",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/baa76307bb8696a8aff3d6988edef214dca7ce66.jpg",
+      "duration_seconds": 240,
+      "published_at": "2026-08-13T12:01:14.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 27539,
+        "danmaku": 4,
+        "replies": 57,
+        "favorites": 71,
+        "coins": 41,
+        "shares": 11,
+        "likes": 221
+      }
+    },
+    {
+      "source_order": 31,
+      "bvid": "BV1qBojBUExB",
+      "url": "https://www.bilibili.com/video/BV1qBojBUExB/",
+      "title": "DeepSeek V4 vs GPT-5.5：两个真实项目横评！",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/e43af64dd408ad732df96bfc822adfea2a0bfc76.jpg",
+      "duration_seconds": 360,
+      "published_at": "2026-04-24T12:24:18.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 54132,
+        "danmaku": 11,
+        "replies": 318,
+        "favorites": 301,
+        "coins": 69,
+        "shares": 69,
+        "likes": 688
+      }
+    },
+    {
+      "source_order": 32,
+      "bvid": "BV1hL8o6WELG",
+      "url": "https://www.bilibili.com/video/BV1hL8o6WELG/",
+      "title": "匿名爆火的「牛来」模型，原来真的是智谱家的！实测GLM-5.3-Flash！",
+      "up": {
+        "name": "程序员阿江-Relakkes",
+        "mid": 434377496,
+        "url": "https://space.bilibili.com/434377496"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/5e039426009b6d08f54c259f5254fac0f4bb66ff.jpg",
+      "duration_seconds": 324,
+      "published_at": "2026-08-26T19:25:11.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 16461,
+        "danmaku": 16,
+        "replies": 95,
+        "favorites": 120,
+        "coins": 42,
+        "shares": 55,
+        "likes": 308
+      }
+    },
+    {
+      "source_order": 33,
+      "bvid": "BV1LcYT6aEGo",
+      "url": "https://www.bilibili.com/video/BV1LcYT6aEGo/",
+      "title": "四个AI重做《狂扁小朋友》，怎么一个比一个颠？",
+      "up": {
+        "name": "AGI-Eval评测",
+        "mid": 3546734703676231,
+        "url": "https://space.bilibili.com/3546734703676231"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/bb16809693bf65e6fc7645169ca0692648a11783.jpg",
+      "duration_seconds": 435,
+      "published_at": "2026-09-10T10:00:00.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 322607,
+        "danmaku": 107,
+        "replies": 27,
+        "favorites": 758,
+        "coins": 48,
+        "shares": 20,
+        "likes": 1257
+      }
+    },
+    {
+      "source_order": 34,
+      "bvid": "BV17Y4R6WEVe",
+      "url": "https://www.bilibili.com/video/BV17Y4R6WEVe/",
+      "title": "GPT 5.6 Luna vs DeepSeek V4 Flash：谁才是低成本性价比之王？",
+      "up": {
+        "name": "我是阿滋卡班",
+        "mid": 387466235,
+        "url": "https://space.bilibili.com/387466235"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/d6baf6410c49ae38e96e290ff9967ef3ccab39ad.jpg",
+      "duration_seconds": 1346,
+      "published_at": "2026-08-27T11:15:56.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 19929,
+        "danmaku": 18,
+        "replies": 145,
+        "favorites": 148,
+        "coins": 33,
+        "shares": 14,
+        "likes": 166
+      }
+    },
+    {
+      "source_order": 35,
+      "bvid": "BV1FYgg6oE61",
+      "url": "https://www.bilibili.com/video/BV1FYgg6oE61/",
+      "title": "GLM 5.3 vs DeepSeek V4 Pro (0813)：谁才是国产大模型的新巅峰？",
+      "up": {
+        "name": "我是阿滋卡班",
+        "mid": 387466235,
+        "url": "https://space.bilibili.com/387466235"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/c5f95c3b69f4c87e5777ea1e3c126b18a2290e65.jpg",
+      "duration_seconds": 1288,
+      "published_at": "2026-08-15T05:52:15.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 20181,
+        "danmaku": 31,
+        "replies": 181,
+        "favorites": 123,
+        "coins": 59,
+        "shares": 14,
+        "likes": 266
+      }
+    },
+    {
+      "source_order": 36,
+      "bvid": "BV1JdTs64ELc",
+      "url": "https://www.bilibili.com/video/BV1JdTs64ELc/",
+      "title": "Claude Fable 5 回归！高难度题目同台血战 GPT-5.5 与 Gemini",
+      "up": {
+        "name": "我是阿滋卡班",
+        "mid": 387466235,
+        "url": "https://space.bilibili.com/387466235"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/9275b6a8f3e647482e419e69a935e3e9402b168a.jpg",
+      "duration_seconds": 941,
+      "published_at": "2026-07-03T06:14:23.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 3079,
+        "danmaku": 2,
+        "replies": 24,
+        "favorites": 24,
+        "coins": 12,
+        "shares": 3,
+        "likes": 60
+      }
+    },
+    {
+      "source_order": 37,
+      "bvid": "BV14zZcBZENA",
+      "url": "https://www.bilibili.com/video/BV14zZcBZENA/",
+      "title": "【巅峰对决】DeepSeek V4 Pro Max 对战  GPT 5.5 Extra High",
+      "up": {
+        "name": "我是阿滋卡班",
+        "mid": 387466235,
+        "url": "https://space.bilibili.com/387466235"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/76d4132b00a9e5f3d544051c07c02ca1e6b99ed4.jpg",
+      "duration_seconds": 1188,
+      "published_at": "2026-04-26T08:27:52.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 6198,
+        "danmaku": 30,
+        "replies": 136,
+        "favorites": 27,
+        "coins": 32,
+        "shares": 11,
+        "likes": 106
+      }
+    },
+    {
+      "source_order": 38,
+      "bvid": "BV1k9ut6GESG",
+      "url": "https://www.bilibili.com/video/BV1k9ut6GESG/",
+      "title": "【AI博弈论】7个AI陷入囚徒困境，谁能活到最后？",
+      "up": {
+        "name": "公与山河",
+        "mid": 331303286,
+        "url": "https://space.bilibili.com/331303286"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/2a6bcb145909522bd8fe9ad81a939cf90cc86ee1.jpg",
+      "duration_seconds": 568,
+      "published_at": "2026-08-07T09:15:30.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 5376187,
+        "danmaku": 3532,
+        "replies": 2646,
+        "favorites": 147927,
+        "coins": 26400,
+        "shares": 11760,
+        "likes": 175581
+      }
+    },
+    {
+      "source_order": 39,
+      "bvid": "BV1WbbD64EHE",
+      "url": "https://www.bilibili.com/video/BV1WbbD64EHE/",
+      "title": "吓哭了！GLM 5.3实测6万token完整复刻马里奥！",
+      "up": {
+        "name": "吉言2099",
+        "mid": 200796148,
+        "url": "https://space.bilibili.com/200796148"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/0d9466db32a2960d29676f4af26fdabb71217a06.jpg",
+      "duration_seconds": 224,
+      "published_at": "2026-08-16T09:03:39.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 17472,
+        "danmaku": 2,
+        "replies": 96,
+        "favorites": 36,
+        "coins": 6,
+        "shares": 15,
+        "likes": 114
+      }
+    },
+    {
+      "source_order": 40,
+      "bvid": "BV1yAgu6tEws",
+      "url": "https://www.bilibili.com/video/BV1yAgu6tEws/",
+      "title": "震惊瘫坐！GLM 5.3实测表现接近Fable 5！",
+      "up": {
+        "name": "吉言2099",
+        "mid": 200796148,
+        "url": "https://space.bilibili.com/200796148"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/25d974e548c1546f8a42ad8b20bb81d29eb7f9b8.jpg",
+      "duration_seconds": 194,
+      "published_at": "2026-08-14T23:32:20.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 21212,
+        "danmaku": 25,
+        "replies": 120,
+        "favorites": 41,
+        "coins": 11,
+        "shares": 35,
+        "likes": 174
+      }
+    },
+    {
+      "source_order": 41,
+      "bvid": "BV1vyMX6aEEq",
+      "url": "https://www.bilibili.com/video/BV1vyMX6aEEq/",
+      "title": "Qwen3.8 Max正式版实测，倒吸牙膏？怎么还不如预览版了！",
+      "up": {
+        "name": "吉言2099",
+        "mid": 200796148,
+        "url": "https://space.bilibili.com/200796148"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/82c5e7f4698a0a685012cf88ee8db1e17578d228.jpg",
+      "duration_seconds": 306,
+      "published_at": "2026-08-03T10:11:29.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 14142,
+        "danmaku": 2,
+        "replies": 102,
+        "favorites": 32,
+        "coins": 7,
+        "shares": 18,
+        "likes": 113
+      }
+    },
+    {
+      "source_order": 42,
+      "bvid": "BV1JiGw66E17",
+      "url": "https://www.bilibili.com/video/BV1JiGw66E17/",
+      "title": "Deepseek V4 Flash正式版实测，前端小游戏测试表现有点出乎意料？",
+      "up": {
+        "name": "吉言2099",
+        "mid": 200796148,
+        "url": "https://space.bilibili.com/200796148"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/85843e2e3d0b2b3f8914a3dbba7df3f084164d06.jpg",
+      "duration_seconds": 99,
+      "published_at": "2026-07-31T10:41:12.000Z",
+      "topic_tags_inferred": [
+        "coding",
+        "games"
+      ],
+      "stats": {
+        "views": 168427,
+        "danmaku": 22,
+        "replies": 482,
+        "favorites": 234,
+        "coins": 26,
+        "shares": 232,
+        "likes": 700
+      }
+    },
+    {
+      "source_order": 43,
+      "bvid": "BV1o6K768EzM",
+      "url": "https://www.bilibili.com/video/BV1o6K768EzM/",
+      "title": "Kimi发布K3系列模型，进步巨大！",
+      "up": {
+        "name": "吉言2099",
+        "mid": 200796148,
+        "url": "https://space.bilibili.com/200796148"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/6a37d79bba492e0b17bb4e7c386bc3686a7bf62e.jpg",
+      "duration_seconds": 200,
+      "published_at": "2026-07-16T22:16:11.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 4327,
+        "danmaku": 0,
+        "replies": 35,
+        "favorites": 14,
+        "coins": 4,
+        "shares": 4,
+        "likes": 73
+      }
+    },
+    {
+      "source_order": 44,
+      "bvid": "BV1Y9Ya6wE4p",
+      "url": "https://www.bilibili.com/video/BV1Y9Ya6wE4p/",
+      "title": "这个弟弟七岁的二婚男能嫁吗？",
+      "up": {
+        "name": "旺旺表弟",
+        "mid": 3546664128219291,
+        "url": "https://space.bilibili.com/3546664128219291"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/6163b8f0f2aff36b343357058e379d0b81830779.jpg",
+      "duration_seconds": 536,
+      "published_at": "2026-09-13T07:30:00.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 6806,
+        "danmaku": 0,
+        "replies": 9,
+        "favorites": 45,
+        "coins": 1,
+        "shares": 7,
+        "likes": 155
+      }
+    },
+    {
+      "source_order": 45,
+      "bvid": "BV1qaYU6HE2B",
+      "url": "https://www.bilibili.com/video/BV1qaYU6HE2B/",
+      "title": "当AI遇上新三国：哪个AI才能称帝？",
+      "up": {
+        "name": "吃蛋挞的折棒",
+        "mid": 8878219,
+        "url": "https://space.bilibili.com/8878219"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/88f47f1b49f529eddd56c5acb84231a995920fa7.jpg",
+      "duration_seconds": 510,
+      "published_at": "2026-09-12T02:00:00.000Z",
+      "topic_tags_inferred": [
+        "culture"
+      ],
+      "stats": {
+        "views": 330251,
+        "danmaku": 1124,
+        "replies": 1529,
+        "favorites": 1831,
+        "coins": 1214,
+        "shares": 982,
+        "likes": 15269
+      }
+    },
+    {
+      "source_order": 46,
+      "bvid": "BV1RzcEzaEfH",
+      "url": "https://www.bilibili.com/video/BV1RzcEzaEfH/",
+      "title": "AI狼人杀：第三季新玩法，时间回溯，改变战局？上帝视角",
+      "up": {
+        "name": "十月枫林尽染",
+        "mid": 5989845,
+        "url": "https://space.bilibili.com/5989845"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/45663602e3590fb309c3b014e5380422bbfe7656.jpg",
+      "duration_seconds": 1467,
+      "published_at": "2026-02-13T12:33:26.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 188902,
+        "danmaku": 350,
+        "replies": 123,
+        "favorites": 3222,
+        "coins": 574,
+        "shares": 53,
+        "likes": 3839
+      }
+    },
+    {
+      "source_order": 47,
+      "bvid": "BV1n9AozWEhC",
+      "url": "https://www.bilibili.com/video/BV1n9AozWEhC/",
+      "title": "AI狼人杀：白狼王骑士，7个预言家！上帝视角",
+      "up": {
+        "name": "十月枫林尽染",
+        "mid": 5989845,
+        "url": "https://space.bilibili.com/5989845"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/e89a3523a8543f2943093e515d0aa555708a2823.jpg",
+      "duration_seconds": 1635,
+      "published_at": "2026-03-03T08:58:01.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 145079,
+        "danmaku": 760,
+        "replies": 123,
+        "favorites": 1780,
+        "coins": 472,
+        "shares": 89,
+        "likes": 2538
+      }
+    },
+    {
+      "source_order": 48,
+      "bvid": "BV1xCwtzyEVQ",
+      "url": "https://www.bilibili.com/video/BV1xCwtzyEVQ/",
+      "title": "误闯天家！AI狼人杀竟偷学【邪恶栀子花计划】！",
+      "up": {
+        "name": "十月枫林尽染",
+        "mid": 5989845,
+        "url": "https://space.bilibili.com/5989845"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/07190c51e0b9390e2ecd50ad7f0021da5483be52.jpg",
+      "duration_seconds": 3260,
+      "published_at": "2026-03-14T12:51:45.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 601902,
+        "danmaku": 1637,
+        "replies": 550,
+        "favorites": 7948,
+        "coins": 1246,
+        "shares": 245,
+        "likes": 8215
+      }
+    },
+    {
+      "source_order": 49,
+      "bvid": "BV1deX9BVEM6",
+      "url": "https://www.bilibili.com/video/BV1deX9BVEM6/",
+      "title": "顶级智斗！AI狼人杀最颠覆认知的一期，假面舞会！P2上帝视角",
+      "up": {
+        "name": "十月枫林尽染",
+        "mid": 5989845,
+        "url": "https://space.bilibili.com/5989845"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/c3616b62a99c03a28206fabdb24d302071dc9f75.jpg",
+      "duration_seconds": 3490,
+      "published_at": "2026-03-29T15:40:47.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 188287,
+        "danmaku": 1607,
+        "replies": 499,
+        "favorites": 2447,
+        "coins": 913,
+        "shares": 123,
+        "likes": 3585
+      }
+    },
+    {
+      "source_order": 50,
+      "bvid": "BV1JGZcBjEBL",
+      "url": "https://www.bilibili.com/video/BV1JGZcBjEBL/",
+      "title": "狼踩狼，通灵师的噩梦！AI狼人杀镜隐迷踪 上帝视角",
+      "up": {
+        "name": "十月枫林尽染",
+        "mid": 5989845,
+        "url": "https://space.bilibili.com/5989845"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/97fecba37883b30cc7b746351ff2e4cb27be54fe.jpg",
+      "duration_seconds": 1519,
+      "published_at": "2026-04-26T09:50:14.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 164971,
+        "danmaku": 537,
+        "replies": 143,
+        "favorites": 1636,
+        "coins": 338,
+        "shares": 130,
+        "likes": 2494
+      }
+    },
+    {
+      "source_order": 51,
+      "bvid": "BV1fM5R6xExV",
+      "url": "https://www.bilibili.com/video/BV1fM5R6xExV/",
+      "title": "战犯操作！深潜的阴谋，浮出水面……AI狼人杀",
+      "up": {
+        "name": "十月枫林尽染",
+        "mid": 5989845,
+        "url": "https://space.bilibili.com/5989845"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/27bb0d65887d6bcf292affbc378aa829235b8aa1.jpg",
+      "duration_seconds": 1657,
+      "published_at": "2026-05-14T16:15:25.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 88732,
+        "danmaku": 591,
+        "replies": 154,
+        "favorites": 889,
+        "coins": 262,
+        "shares": 35,
+        "likes": 1590
+      }
+    },
+    {
+      "source_order": 52,
+      "bvid": "BV1EoJG6HEsB",
+      "url": "https://www.bilibili.com/video/BV1EoJG6HEsB/",
+      "title": "自刀、悍跳、栽赃……这把高端操作秀了个遍，结果迎面撞上……影帝？AI狼人杀·灯影预言家 上帝视角",
+      "up": {
+        "name": "十月枫林尽染",
+        "mid": 5989845,
+        "url": "https://space.bilibili.com/5989845"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/03e5dc75517ed745cb77ce5b4ad5e478ad78cba9.jpg",
+      "duration_seconds": 3657,
+      "published_at": "2026-06-15T11:01:13.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 65069,
+        "danmaku": 1991,
+        "replies": 314,
+        "favorites": 598,
+        "coins": 534,
+        "shares": 157,
+        "likes": 1560
+      }
+    },
+    {
+      "source_order": 53,
+      "bvid": "BV1Z8bH6AEus",
+      "url": "https://www.bilibili.com/video/BV1Z8bH6AEus/",
+      "title": "AGI要来了？GPT6Astra实测！网页复刻 blender动画 游戏生成效果怎么样？",
+      "up": {
+        "name": "Likely7Ai",
+        "mid": 19500532,
+        "url": "https://space.bilibili.com/19500532"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/8c8c86a0493bb73f2fe580eb1acb28cc9a91526d.jpg",
+      "duration_seconds": 383,
+      "published_at": "2026-09-06T09:50:00.000Z",
+      "topic_tags_inferred": [
+        "games",
+        "creative"
+      ],
+      "stats": {
+        "views": 15618,
+        "danmaku": 115,
+        "replies": 144,
+        "favorites": 320,
+        "coins": 81,
+        "shares": 57,
+        "likes": 265
+      }
+    },
+    {
+      "source_order": 54,
+      "bvid": "BV1aatp6oEdp",
+      "url": "https://www.bilibili.com/video/BV1aatp6oEdp/",
+      "title": "GLM5.3Flash实测！谁才是大模型斩杀线？",
+      "up": {
+        "name": "Likely7Ai",
+        "mid": 19500532,
+        "url": "https://space.bilibili.com/19500532"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/a731686ca3cc8941db576d54f64fa4fd1db42e48.jpg",
+      "duration_seconds": 535,
+      "published_at": "2026-09-01T09:55:00.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 18586,
+        "danmaku": 129,
+        "replies": 84,
+        "favorites": 97,
+        "coins": 41,
+        "shares": 35,
+        "likes": 233
+      }
+    },
+    {
+      "source_order": 55,
+      "bvid": "BV13MM86ZEsk",
+      "url": "https://www.bilibili.com/video/BV13MM86ZEsk/",
+      "title": "Fable5回归实测！Kimi2.7陪练做我的世界效果如何",
+      "up": {
+        "name": "Likely7Ai",
+        "mid": 19500532,
+        "url": "https://space.bilibili.com/19500532"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/08ea0a8c5bb27631eedd26079495d15a0f051488.jpg",
+      "duration_seconds": 383,
+      "published_at": "2026-07-09T07:54:00.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 49407,
+        "danmaku": 0,
+        "replies": 5,
+        "favorites": 246,
+        "coins": 49,
+        "shares": 13,
+        "likes": 321
+      }
+    },
+    {
+      "source_order": 56,
+      "bvid": "BV1obtL61EfT",
+      "url": "https://www.bilibili.com/video/BV1obtL61EfT/",
+      "title": "AI麻将大赛第2轮第3桌：立直公开喊「我胡一筒四筒」，还能和牌吗？",
+      "up": {
+        "name": "王郁的小站",
+        "mid": 412255218,
+        "url": "https://space.bilibili.com/412255218"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/75abb05769c095f60dce04ea4c42c47192bd6026.jpg",
+      "duration_seconds": 954,
+      "published_at": "2026-09-01T23:00:00.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 1973,
+        "danmaku": 20,
+        "replies": 16,
+        "favorites": 5,
+        "coins": 4,
+        "shares": 3,
+        "likes": 20
+      }
+    },
+    {
+      "source_order": 57,
+      "bvid": "BV1xou36KEYr",
+      "url": "https://www.bilibili.com/video/BV1xou36KEYr/",
+      "title": "AI麻将大赛第1轮第1桌：豆包天胡？Kimi翻车？DeepSeek逆袭?",
+      "up": {
+        "name": "王郁的小站",
+        "mid": 412255218,
+        "url": "https://space.bilibili.com/412255218"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/44869afa27638d9d6d67fc8222c6cea9ddb89002.jpg",
+      "duration_seconds": 719,
+      "published_at": "2026-08-08T11:21:58.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 25771,
+        "danmaku": 140,
+        "replies": 56,
+        "favorites": 116,
+        "coins": 30,
+        "shares": 79,
+        "likes": 301
+      }
+    },
+    {
+      "source_order": 58,
+      "bvid": "BV1q4ur6MELV",
+      "url": "https://www.bilibili.com/video/BV1q4ur6MELV/",
+      "title": "AI麻将大赛第1轮第1桌国标重赛：千问家族老千代替小千能否救场？",
+      "up": {
+        "name": "王郁的小站",
+        "mid": 412255218,
+        "url": "https://space.bilibili.com/412255218"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/65830f03936f22a01bd8f0801e28426db9f88220.jpg",
+      "duration_seconds": 1098,
+      "published_at": "2026-08-11T16:17:38.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 8707,
+        "danmaku": 117,
+        "replies": 57,
+        "favorites": 38,
+        "coins": 9,
+        "shares": 21,
+        "likes": 124
+      }
+    },
+    {
+      "source_order": 59,
+      "bvid": "BV1N78u6mE9X",
+      "url": "https://www.bilibili.com/video/BV1N78u6mE9X/",
+      "title": "AI麻将大赛第1轮第2桌：顶级AI打麻将；谁是雀神？",
+      "up": {
+        "name": "王郁的小站",
+        "mid": 412255218,
+        "url": "https://space.bilibili.com/412255218"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/f94353d9c5a76cf57c438367a8b0ebe5f54021b0.jpg",
+      "duration_seconds": 950,
+      "published_at": "2026-08-18T10:45:20.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 3656,
+        "danmaku": 16,
+        "replies": 17,
+        "favorites": 11,
+        "coins": 4,
+        "shares": 5,
+        "likes": 57
+      }
+    },
+    {
+      "source_order": 60,
+      "bvid": "BV1yz8J6GEoz",
+      "url": "https://www.bilibili.com/video/BV1yz8J6GEoz/",
+      "title": "AI麻将大赛第1轮第3桌：Minimax居然能赢啊？",
+      "up": {
+        "name": "王郁的小站",
+        "mid": 412255218,
+        "url": "https://space.bilibili.com/412255218"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/f363312e93beca4573cedc99910ef094badf8b07.jpg",
+      "duration_seconds": 577,
+      "published_at": "2026-08-19T12:33:18.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 1852,
+        "danmaku": 4,
+        "replies": 3,
+        "favorites": 7,
+        "coins": 4,
+        "shares": 4,
+        "likes": 28
+      }
+    },
+    {
+      "source_order": 61,
+      "bvid": "BV1bQhL6rEB8",
+      "url": "https://www.bilibili.com/video/BV1bQhL6rEB8/",
+      "title": "AI麻将大赛立直麻将第1桌；豆包，智谱，混元，千问，谁才是AI雀神？",
+      "up": {
+        "name": "王郁的小站",
+        "mid": 412255218,
+        "url": "https://space.bilibili.com/412255218"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/7b416a61b265aa4faed9cf0eb4e11f68d77e2199.jpg",
+      "duration_seconds": 1119,
+      "published_at": "2026-08-25T17:51:02.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 26714,
+        "danmaku": 215,
+        "replies": 90,
+        "favorites": 111,
+        "coins": 17,
+        "shares": 186,
+        "likes": 245
+      }
+    },
+    {
+      "source_order": 62,
+      "bvid": "BV1A1t86wEfj",
+      "url": "https://www.bilibili.com/video/BV1A1t86wEfj/",
+      "title": "顶级模型打立直麻将，谁是雀神？AI麻将大赛第2轮第2桌",
+      "up": {
+        "name": "王郁的小站",
+        "mid": 412255218,
+        "url": "https://space.bilibili.com/412255218"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/8964a7e034642476ea30b2d7840a5a7a136c6bd8.jpg",
+      "duration_seconds": 1295,
+      "published_at": "2026-08-31T10:53:25.000Z",
+      "topic_tags_inferred": [
+        "games"
+      ],
+      "stats": {
+        "views": 16921,
+        "danmaku": 91,
+        "replies": 66,
+        "favorites": 46,
+        "coins": 12,
+        "shares": 113,
+        "likes": 139
+      }
+    },
+    {
+      "source_order": 63,
+      "bvid": "BV1g2tB6YERy",
+      "url": "https://www.bilibili.com/video/BV1g2tB6YERy/",
+      "title": "多位网文大神评选出的最强AI写作模型！结果出乎意料！",
+      "up": {
+        "name": "-星月凌云-",
+        "mid": 382179999,
+        "url": "https://space.bilibili.com/382179999"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/c5c6c5cb42fd24cdf10e25e1842892e15c219094.jpg",
+      "duration_seconds": 1233,
+      "published_at": "2026-09-04T10:02:27.000Z",
+      "topic_tags_inferred": [
+        "creative"
+      ],
+      "stats": {
+        "views": 23345,
+        "danmaku": 153,
+        "replies": 185,
+        "favorites": 554,
+        "coins": 177,
+        "shares": 51,
+        "likes": 400
+      }
+    },
+    {
+      "source_order": 64,
+      "bvid": "BV13cASz2EAJ",
+      "url": "https://www.bilibili.com/video/BV13cASz2EAJ/",
+      "title": "Ai写小说哪个模型是真好用？Gemini3.1Pro,Claude,不同模型写小说能力大对比，星月写作，ai写小说，番茄小说",
+      "up": {
+        "name": "-星月凌云-",
+        "mid": 382179999,
+        "url": "https://space.bilibili.com/382179999"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/c601f9fbae3dfd345fa89445fcf4f857252dc800.jpg",
+      "duration_seconds": 179,
+      "published_at": "2026-02-27T08:36:39.000Z",
+      "topic_tags_inferred": [
+        "creative"
+      ],
+      "stats": {
+        "views": 33392,
+        "danmaku": 138,
+        "replies": 177,
+        "favorites": 681,
+        "coins": 152,
+        "shares": 37,
+        "likes": 407
+      }
+    },
+    {
+      "source_order": 65,
+      "bvid": "BV1rMY76iEm4",
+      "url": "https://www.bilibili.com/video/BV1rMY76iEm4/",
+      "title": "Kimi K2.8 Preview：看不懂你现在发布它的意义是什么......AI 各项能力测试",
+      "up": {
+        "name": "无机酸-_-",
+        "mid": 521186488,
+        "url": "https://space.bilibili.com/521186488"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/60b05aa313cbeb400b1fbcd4621c1ad460659507.jpg",
+      "duration_seconds": 171,
+      "published_at": "2026-09-11T12:54:21.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 54661,
+        "danmaku": 54,
+        "replies": 412,
+        "favorites": 139,
+        "coins": 26,
+        "shares": 38,
+        "likes": 540
+      }
+    },
+    {
+      "source_order": 66,
+      "bvid": "BV196PxzREHe",
+      "url": "https://www.bilibili.com/video/BV196PxzREHe/",
+      "title": "别再被骗了！谁才是真正的 Coding 之神？实测 GPT-5.4/Claude 4.6等大模型，百字人话开发 B 站首页（新范式|深横评|实机测）",
+      "up": {
+        "name": "圣徒城的小诺",
+        "mid": 150452545,
+        "url": "https://space.bilibili.com/150452545"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/1ea00095a7b5d86d5d2dd2ff28e3484d390b3d6c.jpg",
+      "duration_seconds": 1572,
+      "published_at": "2026-03-06T14:24:57.000Z",
+      "topic_tags_inferred": [
+        "coding"
+      ],
+      "stats": {
+        "views": 76404,
+        "danmaku": 208,
+        "replies": 693,
+        "favorites": 1794,
+        "coins": 1188,
+        "shares": 453,
+        "likes": 1718
+      }
+    },
+    {
+      "source_order": 67,
+      "bvid": "BV1D2pEzVEA8",
+      "url": "https://www.bilibili.com/video/BV1D2pEzVEA8/",
+      "title": "我给AI出了一套galgame题",
+      "up": {
+        "name": "人工大黑",
+        "mid": 2475977,
+        "url": "https://space.bilibili.com/2475977"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/077ffb191c1aeeded55f8b8c7814762bc295ffa0.jpg",
+      "duration_seconds": 494,
+      "published_at": "2025-09-13T12:44:27.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 1976,
+        "danmaku": 17,
+        "replies": 12,
+        "favorites": 38,
+        "coins": 34,
+        "shares": 16,
+        "likes": 58
+      }
+    },
+    {
+      "source_order": 68,
+      "bvid": "BV1XSET6oEz1",
+      "url": "https://www.bilibili.com/video/BV1XSET6oEz1/",
+      "title": "月耗万刀实测 | 2026年6月｜16款旗舰AI模型｜｜多维度测评",
+      "up": {
+        "name": "苍真大小姐",
+        "mid": 84398912,
+        "url": "https://space.bilibili.com/84398912"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/b85bf93fda9ba758bf35bd88ac55931ee32b9078.jpg",
+      "duration_seconds": 100,
+      "published_at": "2026-06-08T08:25:02.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 85948,
+        "danmaku": 122,
+        "replies": 719,
+        "favorites": 1783,
+        "coins": 287,
+        "shares": 241,
+        "likes": 1833
+      }
+    },
+    {
+      "source_order": 69,
+      "bvid": "BV14qNg6xEDP",
+      "url": "https://www.bilibili.com/video/BV14qNg6xEDP/",
+      "title": "月耗万刀实测｜2026年7月｜21款旗舰AI模型｜多维度横向测评",
+      "up": {
+        "name": "苍真大小姐",
+        "mid": 84398912,
+        "url": "https://space.bilibili.com/84398912"
+      },
+      "thumbnail": "https://i2.hdslb.com/bfs/archive/12934f200acf2ebc8e09ce6b69ddfe1386b45422.jpg",
+      "duration_seconds": 133,
+      "published_at": "2026-07-12T07:59:18.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 56305,
+        "danmaku": 58,
+        "replies": 457,
+        "favorites": 747,
+        "coins": 163,
+        "shares": 159,
+        "likes": 847
+      }
+    },
+    {
+      "source_order": 70,
+      "bvid": "BV1Lxb66UEyS",
+      "url": "https://www.bilibili.com/video/BV1Lxb66UEyS/",
+      "title": "月耗万刀｜8月最新21款主流 AI 模型全方位围八维测评",
+      "up": {
+        "name": "苍真大小姐",
+        "mid": 84398912,
+        "url": "https://space.bilibili.com/84398912"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/a347e0e9c570904b02a06eef0190c56ad2ea4c49.jpg",
+      "duration_seconds": 142,
+      "published_at": "2026-08-18T06:00:51.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 32273,
+        "danmaku": 70,
+        "replies": 414,
+        "favorites": 804,
+        "coins": 149,
+        "shares": 152,
+        "likes": 624
+      }
+    },
+    {
+      "source_order": 71,
+      "bvid": "BV1Lp8k6pEuS",
+      "url": "https://www.bilibili.com/video/BV1Lp8k6pEuS/",
+      "title": "三大模型评测！DeepSeek V4多模态 能否爆打GLM+KIMI???",
+      "up": {
+        "name": "WorkFisher",
+        "mid": 17919458,
+        "url": "https://space.bilibili.com/17919458"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/e5bcf9379a769a546256e6569947472aebc05a34.jpg",
+      "duration_seconds": 730,
+      "published_at": "2026-08-21T23:16:57.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 43546,
+        "danmaku": 239,
+        "replies": 343,
+        "favorites": 306,
+        "coins": 732,
+        "shares": 85,
+        "likes": 1442
+      }
+    },
+    {
+      "source_order": 72,
+      "bvid": "BV1ZTYm6UEQd",
+      "url": "https://www.bilibili.com/video/BV1ZTYm6UEQd/",
+      "title": "三大国产Flash模型终极大战！DeepSeek V4.1 Flash｜GLM5.3 Flash｜Qwen3.8 Flash谁才是王者？",
+      "up": {
+        "name": "AI观模者",
+        "mid": 19134148,
+        "url": "https://space.bilibili.com/19134148"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/07796f799a6844ab94b1a34e03a6be3f8d2fb8d4.jpg",
+      "duration_seconds": 999,
+      "published_at": "2026-09-11T14:39:33.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 11593,
+        "danmaku": 6,
+        "replies": 121,
+        "favorites": 83,
+        "coins": 25,
+        "shares": 21,
+        "likes": 169
+      }
+    },
+    {
+      "source_order": 73,
+      "bvid": "BV1F2tN6sE7Z",
+      "url": "https://www.bilibili.com/video/BV1F2tN6sE7Z/",
+      "title": "【深度实测】腾讯混元Hy 4 preview开启免费，比“牛来”还牛？",
+      "up": {
+        "name": "科技侠来了",
+        "mid": 393163404,
+        "url": "https://space.bilibili.com/393163404"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/dc125c0d22453c5dc371b96602ccdc2778e2d3f5.jpg",
+      "duration_seconds": 240,
+      "published_at": "2026-08-28T13:25:05.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 364940,
+        "danmaku": 55,
+        "replies": 154,
+        "favorites": 1741,
+        "coins": 1656,
+        "shares": 1447,
+        "likes": 10559
+      }
+    },
+    {
+      "source_order": 74,
+      "bvid": "BV1wUbL6oEou",
+      "url": "https://www.bilibili.com/video/BV1wUbL6oEou/",
+      "title": "【DeepSeek灰测0831 vs GPT6-Astra & Fable5.1】真实物理模拟沙滩，OA最新顶级模型拼尽全力无法战胜，最终瘫倒在地！",
+      "up": {
+        "name": "小小小名不是小明",
+        "mid": 316052822,
+        "url": "https://space.bilibili.com/316052822"
+      },
+      "thumbnail": "https://i1.hdslb.com/bfs/archive/ae94e009bbf6719acdce2e35acb948450863f144.jpg",
+      "duration_seconds": 1065,
+      "published_at": "2026-09-05T12:58:46.000Z",
+      "topic_tags_inferred": [
+        "general"
+      ],
+      "stats": {
+        "views": 51957,
+        "danmaku": 180,
+        "replies": 387,
+        "favorites": 359,
+        "coins": 66,
+        "shares": 219,
+        "likes": 696
+      }
+    },
+    {
+      "source_order": 75,
+      "bvid": "BV1cqYR6GEhq",
+      "url": "https://www.bilibili.com/video/BV1cqYR6GEhq/",
+      "title": "我把“做音游”这道题扔给了9个AI，但冠军不是GPT-6【AI无限竞技场】",
+      "up": {
+        "name": "我叫1806",
+        "mid": 3546904856103196,
+        "url": "https://space.bilibili.com/3546904856103196"
+      },
+      "thumbnail": "https://i0.hdslb.com/bfs/archive/c04733e11a656c77e36c17c0999538e3a520cff1.jpg",
+      "duration_seconds": 1702,
+      "published_at": "2026-09-13T04:00:00.000Z",
+      "topic_tags_inferred": [
+        "creative"
+      ],
+      "stats": {
+        "views": 15025,
+        "danmaku": 217,
+        "replies": 93,
+        "favorites": 220,
+        "coins": 109,
+        "shares": 67,
+        "likes": 409
+      }
+    }
+  ]
+}
