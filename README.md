@@ -6,9 +6,9 @@
 >
 > A community-built, real-world test for leading AI models—curated as a searchable video index, with every view directed back to Bilibili and the original creator.
 
-[进入 B站AI无限竞技场](https://www.bilibili.com/blackboard/era/aiarena.html?page=home#home) · [浏览 75 个视频](VIDEOS.md) · [查看源数据](data/videos.json) · [MIT License](LICENSE)
+[进入 B站AI无限竞技场](https://www.bilibili.com/blackboard/era/aiarena.html?page=home#home) · [浏览 40 个主题](TOPICS.md) · [浏览 190 个视频](VIDEOS.md) · [查看源数据](data/videos.json) · [MIT License](LICENSE)
 
-**2026-09-18 实测：** 从首期腾讯文档读取到 75 个有效 B 站视频，覆盖 22 位 UP 主；每个 BV 号均已通过 B 站公开接口读回。首期结果表顶部列出 `GPT-6 Astra`。
+**2026-09-18 实测：** 从竞技场主页公开接口读取到 40 个主题、164 个不重复视频地址；再与首期腾讯文档的 75 个地址合并去重，共收录 **190 个视频、33 位 UP 主**。截图中的 6 个主题及其视频均已纳入。189 条视频通过 B 站视频接口读回完整元数据；另 1 条仍由竞技场公开接口列出，但原视频接口当前不可用，仓库保留其 BV 地址并明确标记。
 
 ## 这是什么
 
@@ -19,7 +19,8 @@ B站AI无限竞技场不使用一套统一题库。代码、游戏、创作、�
 | 入口 | 用途 |
 |---|---|
 | [网页索引](index.html) | 搜索标题、模型和 UP 主，按主题快速筛选 |
-| [VIDEOS.md](VIDEOS.md) | 在 GitHub 内直接浏览完整视频清单 |
+| [TOPICS.md](TOPICS.md) | 按竞技场热门顺序浏览全部主题及其对应视频 |
+| [VIDEOS.md](VIDEOS.md) | 在 GitHub 内直接浏览去重后的完整视频清单 |
 | [data/videos.json](data/videos.json) | 供研究、可视化和二次开发读取的结构化数据 |
 
 ## 为什么不是另一个 Benchmark
@@ -40,14 +41,14 @@ open http://localhost:8000
 
 ## 更新数据
 
-刷新脚本只使用 Node.js 标准库，从 Brief 指定的腾讯表格提取 BV 号，再从 B 站公开接口读取视频元数据：
+刷新脚本只使用 Node.js 标准库：读取竞技场主页所用的公开主题/详情接口，补充 Brief 指定的腾讯表格，再从 B 站公开视频接口读取元数据：
 
 ```bash
 npm run refresh
 npm test
 ```
 
-生成字段包括原始顺序、BV 号、标题、UP 主、封面、时长、发布时间和抓取时的互动数据。`topic_tags_inferred` 根据标题自动推断，仅用于筛选，不代表 B 站官方分类。
+生成字段包括主题、榜单、主题与视频对应关系、BV 号、B 站直链、标题、UP 主、封面、时长、发布时间和抓取时的互动数据。`topic_tags_inferred` 根据标题和主题自动推断，仅用于筛选，不代表 B 站官方分类。
 
 ## 数据来源与口径
 
@@ -87,9 +88,10 @@ npm test
 
 The **Bilibili AI Infinite Arena** brings together creator-designed tests for leading AI models. Instead of another fixed benchmark, it asks models to solve open-ended tasks drawn from coding, games, finance, creative work, culture, and everyday decisions.
 
-This repository is a searchable index of the inaugural collection:
+This repository is a searchable index combining the live Arena homepage and its inaugural source sheet:
 
-- **75 verified Bilibili videos** from **22 creators**.
+- **40 Arena topics**, **190 unique Bilibili video links**, and **33 creators**.
+- The Arena homepage contributes 164 unique links; the source sheet contributes 75, with overlaps removed.
 - Every item credits the creator as `UP主 <name>` and links to the original video.
 - Structured metadata is available in [`data/videos.json`](data/videos.json).
 - The inaugural results sheet lists **GPT-6 Astra** at the top.
@@ -97,6 +99,7 @@ This repository is a searchable index of the inaugural collection:
 ### Browse
 
 - [Open the official Arena](https://www.bilibili.com/blackboard/era/aiarena.html?page=home#home)
+- [Browse all Arena topics and their videos](TOPICS.md)
 - [Browse the complete video list](VIDEOS.md)
 - [Read the original source sheet](https://docs.qq.com/sheet/DYUdLaEpodUZ2Snhp?tab=pyrw0j)
 
