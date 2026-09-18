@@ -4,6 +4,7 @@ const catalog = JSON.parse(await readFile("data/videos.json", "utf8"));
 const readme = await readFile("README.md", "utf8");
 const videosMarkdown = await readFile("VIDEOS.md", "utf8");
 const topicsMarkdown = await readFile("TOPICS.md", "utf8");
+const escapeHtml = (value) => String(value).replace(/[&<>"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[character]);
 
 const errors = [];
 if (!Array.isArray(catalog.videos) || catalog.videos.length !== catalog.video_count) {
@@ -25,6 +26,10 @@ for (const [index, video] of catalog.videos.entries()) {
   if (!video.title || !video.up?.name || !video.url) errors.push(`${video.bvid}: missing required metadata`);
   if (video.url !== `https://www.bilibili.com/video/${video.bvid}/`) errors.push(`${video.bvid}: invalid direct Bilibili URL`);
   if (!videosMarkdown.includes(`UP主 ${video.up.name}`)) errors.push(`${video.bvid}: missing required UP主 credit`);
+  if (!readme.includes(`<img src="${video.thumbnail}"`)) errors.push(`${video.bvid}: README missing cover`);
+  if (!readme.includes(`>${escapeHtml(video.title)}</a></strong>`)) errors.push(`${video.bvid}: README missing linked title`);
+  if (!readme.includes(`UP主 ${escapeHtml(video.up.name)}</a>`)) errors.push(`${video.bvid}: README missing linked creator`);
+  if (!readme.includes(`bilibili.com/video/${video.bvid}/</a>`)) errors.push(`${video.bvid}: README missing displayed video address`);
 }
 
 const screenshotTopics = ["AI博弈论·囚徒困境", "AI世界杯", "神烦老狗的Benchmark", "AI模型建模演示横测", "没人比TA更懂新三国", "AI复刻游戏狂扁小朋友"];
